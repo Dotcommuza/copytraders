@@ -1,25 +1,25 @@
-        Name                                                               UID                                                   Amount
+        Name                                  UID                                Amount
 
-1.10796 10796                                                    zogzbeh                                                  100
-2.@Pradeep12142                                           zogzg1                                                      214
-3.Sevenway Product                                      zogzfrt                                                      100
-4.Roshan Sampath                                          zogzdws                                                   300
-5.Ravindu K                                                        zogzg2j                                                     265
-6.Ranjan Krishantha                                       zogygoh                                                   200
-7.Janitha Jayasinghe                                      zogzg0q                                                    100
-8.Hiruna™                                                           zogzfwg                                                    587
-9.Thilina Devinda                                            zogzbhw                                                   100
-10.Black Knight                                                 zogzfy2                                                      500
-11.Prashan Madushanka                               zogzcq9                                                     100
-12.Laki                                                                  zogzcn8                                                      135
-13.Manoj Nilanga                                            zogzcpj                                                       110
-14.sujeewa konara                                         zogzcvd                                                       150
-15.D.M.C.Pasindu Dissanayaka                zogzcpu                                                         105
-16.Indeewara Chathuranga                        zogzkx                                                          105
-17.@Varunamm                                              zoh6c8w                                                      100
-18.Lahiru                                                            zoh65mr                                                       100
-19.Hasantha Sasika                                        zogzcqs                                                         100
-20.Mahesh Dasanayaka                               zogzcoq                                                         200
-21.Sampath Dissanayake                            zogzcui                                                          100
-22.Tharu Tharu                                                zogzl1a                                                          225
-23.Amila                                                            zoh6k1a                                                         259
+1.10796 10796                               zogzbeh                               100
+2.@Pradeep12142                             zogzg1                                214
+3.Sevenway Product                          zogzfrt                               100
+4.Roshan Sampath                            zogzdws                               300
+5.Ravindu K                                 zogzg2j                               265
+6.Ranjan Krishantha                         zogygoh                               200
+7.Janitha Jayasinghe                        zogzg0q                               100
+8.Hiruna™                                   zogzfwg                               587
+9.Thilina Devinda                           zogzbhw                               100
+10.Black Knight                             zogzfy2                               500
+11.Prashan Madushanka                       zogzcq9                               100
+12.Laki                                     zogzcn8                               135
+13.Manoj Nilanga                            zogzcpj                               110
+14.sujeewa konara                           zogzcvd                               150
+15.D.M.C.Pasindu Dissanayaka                zogzcpu                               105
+16.Indeewara Chathuranga                    zogzkx                                105
+17.@Varunamm                                zoh6c8w                               100
+18.Lahiru                                   zoh65mr                               100
+19.Hasantha Sasika                          zogzcqs                               100
+20.Mahesh Dasanayaka                        zogzcoq                               200
+21.Sampath Dissanayake                      zogzcui                               100
+22.Tharu Tharu                              zogzl1a                               225
+23.Amila                                    zoh6k1a                               259
